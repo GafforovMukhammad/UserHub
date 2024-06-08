@@ -9,21 +9,5 @@ UserHub is a Django-based web application designed for managing user data. This 
 - Template Rendering: Display user data in HTML templates with Django's template engine.
 - Organized Codebase: Structured following Django best practices, ensuring a clean and maintainable project.
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/GafforovMukhammad/userhub.git
-
-   cd userhub
-  python -m venv myenv
-  source myenv/bin/activate  # On Windows use `myenv\Scripts\activate`
-
-  pip install -r requirements.txt
-
-  python manage.py makemigrations
-  python manage.py migrate
-
-  python manage.py runserver
 
 
